@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yBjK8sDZuIRA3dIuLPD15of5mKDKjWtlgWz3Jw4vjyoslY5zicLu9QEQvJozEknxFjFp322TMrGuWcuTKoUdqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\Demo\\Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\prometheus-net\\4.1.1\\prometheus-net.4.1.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\prometheus-net.aspnetcore\\4.1.1\\prometheus-net.aspnetcore.4.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
